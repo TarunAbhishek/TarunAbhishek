@@ -1,4 +1,3 @@
-<img src="https://i.sstatic.net/lxj2w.gif" alt="MasterHead" height="350" width="100%">
 <h1 align="center">Hi 👋, I'm Tarun Abhishek</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
